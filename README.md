@@ -2,13 +2,13 @@
 
 1. [jap-tutor 소개](#jap-tutor-소개)
 1. [jap-tutor-build](#japtutor-build)
-   1. [auth.js](#auth.js)
+   1. [auth](#auth)
 ## jap-tutor 소개
 jap tutor은
 
 ## japtutor build
 
-### auth.js
+### auth
 
 반갑습니다. JAP-TUTOR에 오신 것을 환영합니다.
 반갑습니다. JAP-TUTOR에 오신 것을 환영합니다.
