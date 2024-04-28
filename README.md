@@ -8,8 +8,7 @@
 1. [jap-tutor 소개](#jap-tutor-소개)
 1. [jap-tutor-build](#japtutor-build)
     1. [auth](#auth)
-
-
+1. [chat services](#chat-services)
 
 ## jap-tutor 소개
 jap tutor은 일본어를 쉽게 학습할 수 있도록 도와주는 사이트입니다. 
@@ -55,6 +54,8 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
 });
 
 ```
+
+## chat services
 
 반갑습니다. JAP-TUTOR에 오신 것을 환영합니다.
 반갑습니다. JAP-TUTOR에 오신 것을 환영합니다.
