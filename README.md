@@ -5,10 +5,15 @@
 
 ### 목차
 1. [목차](#목차)
+1. [todo](#todo)
 1. [jap-tutor 소개](#jap-tutor-소개)
 1. [jap-tutor-build](#japtutor-build)
     1. [auth](#auth)
 1. [chat services](#chat-services)
+
+## todo
+1. whisper api 
+1. render chat
 
 ## jap-tutor 소개
 jap tutor은 일본어를 쉽게 학습할 수 있도록 도와주는 사이트입니다. 
