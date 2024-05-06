@@ -1,3 +1,3 @@
 # this is the list.md
 
-show anything
+1. [목차](/blog/list.md)
