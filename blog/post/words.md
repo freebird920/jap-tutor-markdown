@@ -19,6 +19,7 @@
 ### か
 [構い](https://ja.dict.naver.com/#/entry/jako/7f474bb24d524984b0777eff044cbc84)
 ### さ
+[様々な](https://www.weblio.jp/content/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA)
 ### た
 [ついて](https://ja.dict.naver.com/#/entry/jako/09f2c2bb179841879f88a9e791b6c9cb)
 
