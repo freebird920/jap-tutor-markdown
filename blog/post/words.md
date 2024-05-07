@@ -25,21 +25,13 @@
 ### な
 
 ### は
-
+[深い](https://ja.dict.naver.com/#/entry/jako/d501115b1c264436bc0cc4097361d6eb)
 ### ま
 
 ### や
 
 ### ら
 
-adf ad fasd f asd adf ad fasd f asd adf ad fasd f asd
-
-adf ad fasd f asd
-
 ### わ
 
-adf ad fasd f asd adf ad fasd f asd adf ad fasd f asd adf ad fasd f asd
-
 ### ん
-
-tkajfikaodjf adf ad fasd f asd f asdfa afds
