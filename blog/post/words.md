@@ -17,7 +17,7 @@
 ### あ
 あいさつ
 ### か
-
+[構い](https://ja.dict.naver.com/#/entry/jako/7f474bb24d524984b0777eff044cbc84)
 ### さ
 ### た
 [ついて](https://ja.dict.naver.com/#/entry/jako/09f2c2bb179841879f88a9e791b6c9cb)
