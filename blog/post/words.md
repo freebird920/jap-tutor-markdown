@@ -20,6 +20,7 @@
 
 ### さ
 ### た
+[ついて](https://ja.dict.naver.com/#/entry/jako/09f2c2bb179841879f88a9e791b6c9cb)
 
 ### な
 
