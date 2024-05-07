@@ -28,7 +28,7 @@
 ### は
 [深い](https://ja.dict.naver.com/#/entry/jako/d501115b1c264436bc0cc4097361d6eb)
 ### ま
-
+[学び](https://ja.dict.naver.com/#/entry/jako/3772a624a6464e01835875d1a372756b)
 ### や
 
 ### ら
